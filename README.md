@@ -1,0 +1,1 @@
+Aplikasi web sederhana untuk mengumpulkan feedback kepuasan pengunjung kebun binatang PDTSKBS melalui penilaian Sad atau Happy. Dibuat dengan PHP, Bootstrap 5, dan MySQL, aplikasi ini memungkinkan petugas di loket memasukkan data penilaian yang tersimpan di database survey_db
